@@ -1,0 +1,24 @@
+{
+  "name": "weather_power-up",
+  "version": "1.0.0",
+  "description": "A Small Weather Power-up for Trello",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build src/html/*.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgumlaw/Trello_API.git"
+  },
+  "author": "Steve Gumlaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgumlaw/Trello_API/issues"
+  },
+  "homepage": "https://github.com/sgumlaw/Trello_API#readme",
+  "dependencies": {}
+}
